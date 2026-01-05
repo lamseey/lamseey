@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I’m currently working on Software and simulation projects<br>👯 I’m looking to collaborate on Projects involving Machine Learning, algorithms, optimization, simulations, or well-structured software systems<br>🤝 I’m looking for help with deepening my practical experience in Machine Learning and AI-driven systems, especially applying theory to real-world problems.<br>🌱 I’m currently learning advanced topics in Machine Learning, data analysis, and software architecture, alongside my Computer Science Engineering studies at UM6P College of Computing.
+📌 I’m currently working on Software and Simulation projects<br>👯 I’m looking to collaborate on projects involving Machine Learning, Algorithms, Optimization, Simulations, Software Systems<br>🤝 I’m looking for help with deepening my practical experience in Machine Learning and AI-driven systems, especially applying Theory to Real-World problems.<br>🌱 I’m currently learning advanced topics in Machine Learning, Data Analysis, and Software Architecture
 
 
 ## 🌐 Socials:
